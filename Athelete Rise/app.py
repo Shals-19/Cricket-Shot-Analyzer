@@ -1,6 +1,6 @@
 import streamlit as st
 import tempfile
-from analyze import analyze_video
+from cover_drive_analysis_realtime import analyze_video
 
 st.title("🏏 Cricket Shot Analyzer")
 
