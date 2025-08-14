@@ -1,0 +1,11 @@
+mediapipe
+opencv-python
+numpy
+matplotlib
+streamlit
+jinja2
+Pillow
+streamlit-option-menu
+scikit-learn
+moviepy
+markdown2
